@@ -16,3 +16,20 @@ classi:
 
 2. Classe gestoreFraseDriver che conterrà il metodo main e nel quale, una volta richiesta la frase in input, stamperà le frequenze richieste. 
     
+
+# <p align="">Esercizio 3: calcola circonferenza e area cerchi</p>
+  
+Scrivere il programma che calcola la circonferenza e l’area di due cerchi, con
+arrotondamento alle prime tre cifre decimali per il calcolo dell’area del primo
+cerchio. Per svolgere questo programma dovrete creare due classi:
+
+A. Classe cerchioArrot con attributo raggio e metodi:
+
+- area (𝐴 = 𝜋𝑟 2 ),
+- areaArrotondata (cioè bisognerà ragionare sulle cifre decimali),
+- circonferenza (𝐶 = 2𝜋𝑟),
+- costruttori ed eventuali setter e getter (solo se necessari)
+
+B. Classe cerchioArrotDrive che conterrà il metodo main e le istanze dei cerchi
+per testare i metodi della classe precedente. 
+    
