@@ -33,3 +33,11 @@ A. Classe cerchioArrot con attributo raggio e metodi:
 B. Classe cerchioArrotDrive che conterrà il metodo main e le istanze dei cerchi
 per testare i metodi della classe precedente. 
     
+
+# <p align="">Esercizio 4: Biblioteca</p>
+  
+Creauna classe chiamata “Libro” con i seguenti attributi: titolo, autore, numero di pagine, genere.
+Includi i metodi per impostare e recuperare i valori degli attributi e un metodo per visualizzare
+tutte le informazioni del libro. Crea una classe “Biblioteca”che contiene
+un array di libri e i metodi per aggiungere, rimuovere e visualizzare tutti i libri presenti nella biblioteca.
+    
