@@ -45,3 +45,9 @@ un array di libri e i metodi per aggiungere, rimuovere e visualizzare tutti i li
 # <p align="">Esercizio 5: Calcolatrice</p>
   
 Creare una semplice calcolatrice con la grafica usando swing
+
+
+# <p align="">Esercizio 6: Rettangolo</p>
+  
+Crea una classe chiamata “Rettangolo” con i seguenti attributi: lunghezza, larghezza. Includi i metodi per impostare e recuperare i valori degli attributi e un metodo per calcolare l’area del rettangolo. Crea una classe “Casa” che contiene un array di rettangoli (per rappresentare le stanze) e i metodi per aggiungere, rimuovere e visualizzare le informazioni di tutte le stanze.
+    
