@@ -83,4 +83,12 @@ Per implementare questo programma, potremmo creare una classe base "Geometria" c
 Ad esempio, la classe "Quadrato" potrebbe definire una proprietà "lato" e un metodo "calcolaArea" cherestituisce l'area del quadrato (lato lato), mentre la classe "Cerchio" potrebbe definire una proprietà"raggio" e un metodo "calcola_area" che restituisce l'area del cerchio (pi raggio^2).
 
 Per utilizzare queste classi e calcolare le aree e i perimetri degli oggetti, potremmo creare una lista dioggetti geometrici di tipo "Geometria" e utilizzare il polimorfismo per chiamare il metodo"calcola_area" su ogni oggetto. In questo modo, il programma eseguirà il metodo specifico della classecorretta per calcolare l'area dell'oggetto.
+
+# <p align="">Esercizio 10: ArrayList</p>
+Sono una serie di esercici semplici per imparare gli ArrayList
+- Es 1: Crea un ArrayList di interi e aggiungi i numeri da 1 a 10. Stampa l'intero ArrayList usando un ciclo for.
+- Es 2: Crea un ArrayList di stringhe e aggiungi alcune parole. Rimuovi una parola dall'ArrayList utilizzando il suo indice. Stampa l'ArrayList risultante.
+- Es 3: Crea un ArrayList di oggetti Persona, dove Persona è una classe con gli attributi nome e età. Aggiungi alcune persone all'ArrayList e stampa solo le persone con un'età superiore a 30.
+- Es 4: Scrivi un metodo che accetti un ArrayList di interi e restituisca un nuovo ArrayList contenente solo i numeri pari presenti nell'originale.
+- Es 5: Scrivi un metodo che accetti un ArrayList di stringhe e restituisca un nuovo ArrayList contenente solo le stringhe che iniziano con una lettera maiuscola.
     
